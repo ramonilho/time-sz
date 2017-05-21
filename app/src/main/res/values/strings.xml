@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="app_title">cadastre-se (:</string>
+    <string name="desenvolvido_por">Desenvolvido por Ramon Honório</string>
+
+    <!-- Hints -->
+    <string name="hintNome">Nome</string>
+    <string name="hintIdade">Idade</string>
+
+    <!-- Selecione o time -->
+    <string name="selecione_time">Selecione o time</string>
+    <string name="flamengo">Flamengo</string>
+    <string name="sao_paulo">São Paulo</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="labelConfirmacao">Confirmação</string>
+
+    <string name="confirmacao_cadastro">
+        Olá %1$s, parabéns por torcer pelo %2$s.\nÉ uma escolha muito sábia para alguém com %3$s anos de idade.
+    </string>
+</resources>
